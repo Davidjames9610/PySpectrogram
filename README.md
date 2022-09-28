@@ -14,3 +14,5 @@ Future improvements if I come back to this side project:
 ![screenshot](examples/screenshot1.png)
 ![screenshot](examples/screenshot2.png)
 ![screenshot](examples/screenshot3.png)
+
+first update
